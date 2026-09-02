@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi, I'm Gino 👋
 
-<!--
-**GinoPiersigilli/GinoPiersigilli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Engineering student (halfway through the degree), based in Argentina. I mostly work with Python and Java, and I'm slowly getting into security on the side.
 
-Here are some ideas to get you started:
+Currently
+Learning Python in depth — past the basics, working on getting more solid with it.
+Studying security whenever I get some free time between classes. Still early, but it's something I want to go deeper into.
+Backend work with Java.
+Tech I use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python Java JavaScript React Node.js Express Git
+
+Picked up React, Node/Express and secure development practices (front-end, back-end and API security) through UTN's "Desarrollo de Software" course.
+
+Projects
+Reservas — small app to manage bookings/reservations. Built with JavaScript.
+
+More coming as I finish the degree and get further into security — planning a few things once I have more time.
+
+Contact
+LinkedIn: ginopiersigilli
+Email: ginopiersigilli@gmail.com
