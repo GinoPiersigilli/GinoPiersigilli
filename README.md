@@ -18,5 +18,5 @@ Reservas — small app to manage bookings/reservations. Built with JavaScript.
 More coming as I finish the degree and get further into security — planning a few things once I have more time.
 
 Contact
-LinkedIn: ginopiersigilli
+LinkedIn: https://www.linkedin.com/in/ginopiersigilli
 Email: ginopiersigilli@gmail.com
