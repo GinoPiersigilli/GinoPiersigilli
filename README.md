@@ -1,6 +1,6 @@
 ### Hi, I'm Gino 👋
 
-Systems Engineering student (halfway through the degree), based in Argentina. I mostly work with Python and Java, and I'm slowly getting into security on the side.
+Systems Engineering student (halfway through the degree), based in Argentina. I mostly work with Python and Java.
 
 #### Currently
 
@@ -16,7 +16,7 @@ Systems Engineering student (halfway through the degree), based in Argentina. I 
 
 - [**Reservas**](https://github.com/GinoPiersigilli/Reservas) — small app to manage bookings/reservations. Built with JavaScript.
 
-More coming as I finish the degree and get further into security — planning a few things once I have more time.
+More coming as I finish the degree.
 
 #### Contact
 
