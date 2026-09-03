@@ -1,22 +1,36 @@
 ### Hi, I'm Gino 👋
 
-Systems Engineering student (halfway through the degree), based in Argentina. I mostly work with Python and Java.
+Systems Engineering student in Argentina, focused on **backend, Linux/systems and cybersecurity fundamentals**. Looking for my first Junior/Trainee opportunity in IT.
 
-#### Currently
+#### Focus
 
-- Learning **Python** in depth — past the basics, working on getting more solid with it.
-- Studying **security** whenever I get some free time between classes. Still early, but it's something I want to go deeper into.
-- Backend work with **Java**.
+Backend development → Linux & systems → Cybersecurity (long-term goal: offensive security / red team).
 
-#### Tech I use
+#### Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,git)
+**Core**
 
-#### Projects
+![Core Skills](https://skillicons.dev/icons?i=java,python,mysql,bash,linux)
 
-- [**Reservas**](https://github.com/GinoPiersigilli/Reservas) — small app to manage bookings/reservations. Built with JavaScript.
+**Also working with**
 
-More coming as I finish the degree.
+![Other Skills](https://skillicons.dev/icons?i=js,react,nodejs,express)
+
+#### Currently Learning
+
+- Deepening **Python**
+- Cybersecurity fundamentals (networking, basic offensive security concepts)
+- OOP design and data structures applied to real projects
+
+#### Featured Projects
+
+- [**Reservas**](https://github.com/GinoPiersigilli/Reservas) — Booking management app. Built to practice JavaScript, basic app logic and state handling.
+
+More projects in progress as I build out backend and security-focused work.
+
+#### Looking For
+
+Junior/Trainee roles in **backend development, IT support, systems, or entry-level cybersecurity**.
 
 #### Contact
 
