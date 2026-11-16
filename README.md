@@ -14,7 +14,7 @@ Backend development → Linux & systems → Cybersecurity (long-term goal: offen
 
 **Also working with**
 
-![Other Skills](https://skillicons.dev/icons?i=js,react,nodejs,express)
+![Other Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,postgres,docker)
 
 #### Currently Learning
 
@@ -24,7 +24,7 @@ Backend development → Linux & systems → Cybersecurity (long-term goal: offen
 
 #### Featured Projects
 
-- [**Reservas**](https://github.com/GinoPiersigilli/Reservas) — Booking management app. Built to practice JavaScript, basic app logic and state handling.
+- [**Reservas**](https://github.com/GinoPiersigilli/Reservas) — Full-stack classroom booking system (React, Node/Express, PostgreSQL, Docker), built as a university project for UTN FRC's registrar office. Double bookings are blocked at the database level and verified under 100 concurrent requests; 424 automated tests and CI with security scanning.
 
 More projects in progress as I build out backend and security-focused work.
 
